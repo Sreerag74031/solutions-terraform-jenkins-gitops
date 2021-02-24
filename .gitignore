@@ -15,3 +15,5 @@ credentials.json
 
 #mac
 .DS_Store
+
+*.bak
